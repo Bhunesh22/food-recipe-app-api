@@ -8,6 +8,7 @@ from django.test import SimpleTestCase
 
 from .calc import Sum
 
+
 class Clactest(SimpleTestCase):
 
     def test_add_nembers(self):
