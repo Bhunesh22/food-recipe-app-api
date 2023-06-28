@@ -11,4 +11,4 @@ class Clactest(SimpleTestCase):
 
         res = Sum(5, 8)
 
-        self.assertEqual(res, 15)
+        self.assertEqual(res, 13)
