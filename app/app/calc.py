@@ -1,5 +1,8 @@
 
 """sum function"""
+# pylint: disable=missing-module-docstring
+# pylint: disable=missing-class-docstring
+# pylint: disable=missing-function-docstring
 
-def Sum(a, b):
-    return a + b
+def Sum(_a, _b):
+    return _a + _b
